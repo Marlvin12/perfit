@@ -730,15 +730,15 @@ perfit-extension/
 
 ## Roadmap
 
-### Phase 1: MVP (Months 1-3)
-- [ ] Extension skeleton with Manifest V3
-- [ ] User authentication flow
-- [ ] Basic avatar creation (photo upload + measurements)
-- [ ] Product detection for 5 major retailers (Amazon, ZARA, H&M, ASOS, Uniqlo)
+### Phase 1: MVP (Days 1-4)
+- [x] Extension skeleton with Manifest V3
+- [x] User authentication flow
+- [x] Basic avatar creation (photo upload + measurements)
+- [x] Product detection for 5 major retailers (Amazon, ZARA, H&M, ASOS, Uniqlo)
 - [ ] Simple try-on visualization
 - [ ] Size recommendation v1
 
-### Phase 2: Core Features (Months 4-6)
+### Phase 2: Core Features (Days 5-8)
 - [ ] Enhanced avatar quality (face capture, hair)
 - [ ] Diffusion-based try-on engine
 - [ ] Multi-angle view generation
@@ -746,7 +746,7 @@ perfit-extension/
 - [ ] 20+ retailer support
 - [ ] Try-on history and favorites
 
-### Phase 3: Advanced Features (Months 7-9)
+### Phase 3: Advanced Features (Days 9-11)
 - [ ] Real-time physics simulation
 - [ ] Color/style recommendations
 - [ ] Social sharing features
@@ -754,7 +754,7 @@ perfit-extension/
 - [ ] Firefox support
 - [ ] Safari support (iOS extension)
 
-### Phase 4: Platform Expansion (Months 10-12)
+### Phase 4: Platform Expansion (Days 12-14)
 - [ ] B2B retailer dashboard
 - [ ] Analytics and insights API
 - [ ] White-label SDK
